@@ -1,0 +1,23 @@
+{
+  "site_title": "Elvin Buğra Arslan",
+  "site_subtitle": "Kırşehir Mucur KYK Portalı",
+  "primary_color": "#3b0764",
+  "primary_container": "#581c87",
+  "secondary_color": "#7c3aed",
+  "secondary_container": "#ddd6fe",
+  "surface_color": "#faf8fc",
+  "on_surface_color": "#111c2d",
+  "accent_color": "#ba1a1a",
+  "border_radius": "rounded-2xl",
+  "font_family": "Inter",
+  "hero_badge": "2026 Bahar Dönemi Aktif",
+  "hero_title": "GSB Kırşehir Mucur Yurt Talep & Yaşam Yönetim Sistemi",
+  "hero_subtitle": "Arıza bildirimleri, oda talepleri ve yemekhane menüleri tek portalda",
+  "contact_phone": "0 (386) 812 45 67",
+  "contact_email": "mucuryurt@gsb.gov.tr",
+  "contact_address": "Yenice Mah. KYK Cad. No:12 Mucur / Kırşehir",
+  "security_phone": "0 (386) 812 45 99 (Nöbetçi Memur Dahili: 104)",
+  "cafeteria_lunch_hours": "12:00 - 13:30",
+  "cafeteria_dinner_hours": "18:00 - 21:00",
+  "footer_text": "T.C. Gençlik ve Spor Bakanlığı • Kredi ve Yurtlar Genel Müdürlüğü"
+}
